@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "AD68FE95-7641-65AD-128B-A1AE758C9D94",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Vikings",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
